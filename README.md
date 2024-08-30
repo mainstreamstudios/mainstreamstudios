@@ -1,4 +1,6 @@
-## Hi there 👋
+## mAInstream studIOs
+
+<img src="mAInstream8-ezgif.com-crop.gif" alt="mAInstream studIOs GIF" width="500px">
 
 <!--
 **mainstreamstudios/mainstreamstudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
