@@ -1,4 +1,4 @@
-## mAInstream studIOs
+## Artificial Intelligence. Real Impact
 
 <img src="mAInstream8-ezgif.com-crop.gif" alt="mAInstream studIOs GIF" width="500px">
 
