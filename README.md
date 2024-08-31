@@ -1,6 +1,6 @@
 ## Artificial Intelligence: Real Impact
 
-<img src="mAInstream8-ezgif.com-crop.gif" style="border-radius: 6px;" alt="mAInstream studIOs GIF" width="500px">
+<img src="mAInstream8-ezgif.com-crop.gif" alt="mAInstream studIOs GIF" width="500px">
 
 <!--
 **mainstreamstudios/mainstreamstudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
